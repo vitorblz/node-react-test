@@ -11,3 +11,8 @@ Será avaliado o funcionamento e o uso dos seguintes itens:
 - Destructors
 - High Order Component
 - Stateless Component
+
+Rotas:
+GET: http://localhost:5000/itens
+POST: http://localhost:5000/adicionar ex: {"nome": "produto 41", "quantidade": 41}
+DELETE http://localhost:5000/remover ex:{ "id": 3 }
