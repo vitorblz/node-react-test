@@ -2,9 +2,9 @@
 
 ## Frontend
 
-O frontend desenvolvido utilizando React deve permitir adicionar itens a lista e a quantidade de itens. Deve permitir também remover itens da lista de compras.
+O frontend desenvolvido utilizando React deve permitir adicionar itens a lista informando nome e quantidade de cada item. Deve permitir também remover itens da lista de compras.
 
-Deve utilizar:
+Será avaliado o funcionamento e o uso dos seguintes itens:
 
 - Arrow functions
 - Async await
