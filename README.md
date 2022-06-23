@@ -1,5 +1,7 @@
 # Avaliação: Implementação de uma lista de compras
 
+![](./layout.drawio.svg)
+
 ## Frontend
 
 O frontend desenvolvido utilizando React deve possuir as sequintes funcionalidades:
