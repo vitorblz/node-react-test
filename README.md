@@ -12,18 +12,20 @@ O frontend desenvolvido utilizando React deve possuir as sequintes funcionalidad
 
 ## Backend
 
-- O backend deve possuir rotas/endpoits para adicionar e remover itens da lista
+O backend deve possuir rotas/endpoits para:
+- adicionar itens na lista
+- remover itens da lista
 
 ## Será avaliado o funcionamento e o uso dos seguintes itens:
-JAVASCRIPT
+JAVASCRIPT/TYPESCRIPT
+- Bom uso de tipagem
 - Arrow functions
 - Async await
 - Destructors
 REACT
 - High Order Component
-- Stateless Component
-
-
+- Stateless Componen
+- Pattern de composição
 
 ### Link download
 https://github.com/vitorblz/node-react-test/archive/refs/heads/master.zip
