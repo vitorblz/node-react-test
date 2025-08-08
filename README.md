@@ -22,6 +22,7 @@ JAVASCRIPT/TYPESCRIPT
 - Arrow functions
 - Async await
 - Destructors
+
 REACT
 - High Order Component
 - Stateless Componen
